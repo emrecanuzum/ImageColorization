@@ -56,5 +56,8 @@ entropy loss
 during training
 - discriminatorScaler: an object for scaling the loss of the
 discriminator during training
+
 <hr>
-### This project is made by Ahmet Kaan Memioğlu, Şükrü Erim Sinal and Emrecan Üzüm
+<br>
+
+## This project is made by Ahmet Kaan Memioğlu, Şükrü Erim Sinal and Emrecan Üzüm
