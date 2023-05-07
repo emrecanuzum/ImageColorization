@@ -58,4 +58,18 @@ during training
 discriminator during training
 <br>
 
+### Examples from our work:
+
+-Data scraping:
+![image](https://user-images.githubusercontent.com/73427323/236674856-c568ea4b-e488-48d5-ae1d-309050c1d1fa.png)
+
+-Prediction:
+![prediction](https://user-images.githubusercontent.com/73427323/236674870-fb39f40e-effd-466e-a6fd-8c63aabcbaa0.png)
+
+### Comparison:
+We want to compare our balanced dataset with pretrained datasets. At the top left you can see our output and at the bottom you can see the pretrained models prediction accuracy
+![example1](https://user-images.githubusercontent.com/73427323/236674961-e45f72b5-f96b-4d84-a00a-0aee0c37fc15.png)
+![example2](https://user-images.githubusercontent.com/73427323/236674963-26e7e5b0-8c09-4230-aa19-7aa6748b1e1b.png)
+
+
 ## This project is made by Ahmet Kaan Memioğlu, Şükrü Erim Sinal and Emrecan Üzüm
