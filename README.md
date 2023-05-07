@@ -61,9 +61,11 @@ discriminator during training
 ### Examples from our work:
 
 -Data scraping:
+<br>
 ![image](https://user-images.githubusercontent.com/73427323/236674856-c568ea4b-e488-48d5-ae1d-309050c1d1fa.png)
-
+<hr>
 -Prediction:
+<br>
 ![prediction](https://user-images.githubusercontent.com/73427323/236674870-fb39f40e-effd-466e-a6fd-8c63aabcbaa0.png)
 
 ### Comparison:
