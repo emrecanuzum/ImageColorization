@@ -79,4 +79,4 @@ We want to compare our balanced dataset with pretrained datasets. At the top lef
 ![example2](https://user-images.githubusercontent.com/73427323/236674963-26e7e5b0-8c09-4230-aa19-7aa6748b1e1b.png)
 
 
-## This project is made by Ahmet Kaan Memioğlu, Şükrü Erim Sinal and Emrecan Üzüm
+### This project was made by Ahmet Kaan Memioğlu, Şükrü Erim Sinal and Emrecan Üzüm as a Term Project of "Image Processing" class.
