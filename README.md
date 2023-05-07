@@ -66,6 +66,8 @@ discriminator during training
 <hr>
 -Prediction:
 <br>
+
+
 ![prediction](https://user-images.githubusercontent.com/73427323/236674870-fb39f40e-effd-466e-a6fd-8c63aabcbaa0.png)
 
 ### Comparison:
